@@ -1,0 +1,14 @@
+layout_spectrum: 0.3576505130622536
+typography_spectrum: 0.281746331602335
+color:
+  brandStrength: 0.8396141328848898
+  lightness: 0.0584695884026587
+  saturation: 0.2002681151498109
+  rhythmicContrast: 0.638042826903984
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Hatcher
