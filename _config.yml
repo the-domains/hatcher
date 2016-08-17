@@ -1,4 +1,3 @@
-layout_spectrum: 0.3576505130622536
 typography_spectrum: 0.281746331602335
 color:
   brandStrength: 0.8396141328848898
@@ -6,9 +5,11 @@ color:
   saturation: 0.2002681151498109
   rhythmicContrast: 0.638042826903984
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.3576505130622536
 name: Hatcher
+title: Welcome to Hatcher
